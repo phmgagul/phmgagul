@@ -8,12 +8,10 @@ My name is Phumza Mgaguli
 
 - Software Engineering student at WeThinkCode 👩‍🎓 <img align="right" width="300px" height="300px" src="https://user-images.githubusercontent.com/67915177/113029057-4ab8b500-918c-11eb-87f1-c2ee3b58879b.gif"/>
 - I compare my programming journey to the "sine wave" as there has been alot of learning and growing.
-- I love playing videogames 🎮
-- I also love documentaries 📹
 - I'm also a huge fan of tech swag(If you have any to give, please send them my way 🙋)
-- One day I hope to:
-	- Go skydiving
-	- Learn how to skateboard :ok_hand:
+- Learning not to quit when things fail.
+- I'm into problem- solving and challenging myself to come up with solutions.
+- Love working with people who take up challenges.
 - 🔭 I’m currently working on a team project building a client/server program
 - 🌱 I’m currently learning object-oriented programming in Java
 - I love what programming is about; working with people, learning and solving problems.
