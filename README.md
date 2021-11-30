@@ -1,6 +1,6 @@
 ### HelloWorld! 👋
 
-My name is Phumza Mgaguli
+I am Phumza Mgaguli
 
 [<img alt="phumza-mgaguli-0653a21ba |  LinkedIn" width="22px" height="22px" src="https://user-images.githubusercontent.com/67915177/113033733-a0dc2700-9191-11eb-893e-4338507c400b.png"/>][linkedin]
 
