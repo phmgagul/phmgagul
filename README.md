@@ -25,3 +25,7 @@ I am Phumza Mgaguli
 ![Python](https://img.shields.io/badge/-Python-EDD222?style=flat&logo=python&logoColor=yellow&color=purple)
 
 ![JAVA](https://img.shields.io/badge/-JAVA-black?logo=java&style=flat&color=red&logoColor=yellow)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
