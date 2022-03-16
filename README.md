@@ -29,3 +29,5 @@ I am Phumza Mgaguli
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phmgagul&hide=TeX&layout=compact)
