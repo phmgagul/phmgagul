@@ -30,6 +30,3 @@ I am Phumza Mgaguli
 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phmgagul&hide=TeX&layout=compact)
-
-[Github Stats](https://github-readme-stats.vercel.app/api?username=phmgagul&count_private=true&show_icons=true&include_all_commits=true)
