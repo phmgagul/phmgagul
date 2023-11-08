@@ -6,7 +6,7 @@ I am Phumza Mgaguli
 
 [linkedin]:https://www.linkedin.com/in/phumza-mgaguli-0653a21ba
 
-- Software Engineering 👩‍🎓 <img align="right" width="300px" height="300px" src="https://user-images.githubusercontent.com/67915177/113029057-4ab8b500-918c-11eb-87f1-c2ee3b58879b.gif"/>
+- Software Developer 👩‍🎓 <img align="right" width="300px" height="300px" src="https://user-images.githubusercontent.com/67915177/113029057-4ab8b500-918c-11eb-87f1-c2ee3b58879b.gif"/>
 - I'm also into participating in hackathons quite alot.
 - I'm into problem-solving and challenging myself to come up with solutions.
 - Love working with people who take up challenges.
