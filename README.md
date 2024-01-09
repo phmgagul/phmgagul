@@ -7,8 +7,8 @@ I'm Phumza Mgaguli
 [linkedin]:https://www.linkedin.com/in/phumza-mgaguli-0653a21ba
 
 - Software Developer  <img align="right" width="300px" height="300px" src="https://user-images.githubusercontent.com/67915177/113029057-4ab8b500-918c-11eb-87f1-c2ee3b58879b.gif"/>
-- I'm also into participating in hackathons quite alot.
-- I approach problems in a pramatic way and seek the simplest and most functional solutions possible.
+- I enjoy participating in hackathons.
+- I approach problems in a pragmatic way and seek the simplest and most functional solutions possible.
 
 
 ## ⚡ Technologies
